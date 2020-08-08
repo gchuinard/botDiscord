@@ -33,4 +33,4 @@ bot.on('message', (message) => {
 
 
 
-bot.login('NzI2OTAzNzc1ODk3MzIxNDcy.XvkHPA.t5EV7IUvNH5HLIIpTavVxHbPqnc');
+bot.login(TOKEN);
